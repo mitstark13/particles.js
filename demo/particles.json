@@ -48,7 +48,7 @@
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#F6D8AE",
+      "color": "#F7FFF7",
       "opacity": 0.4,
       "width": 1
     },
@@ -67,7 +67,7 @@
     }
   },
   "interactivity": {
-    "detect_on": "html",
+    "detect_on": "canvas",
     "events": {
       "onhover": {
         "enable": true,
